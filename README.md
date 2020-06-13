@@ -1,3 +1,2 @@
-# c_loc
-location data project for coursera
-https://www.coursera.org/learn/applied-data-science-capstone/home/welcome
+# Personal project to explore Chicago
+for data source and methodology check: raw data dictionary
